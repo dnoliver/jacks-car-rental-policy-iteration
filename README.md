@@ -1,7 +1,7 @@
 # Problem
 
 This is the link to our reference book from the author’s website, Dr. Richard Sutton:
-[http://incompleteideas.net/book/RLbook2020.pdf](http://incompleteideas.net/book/RLbook2020.pdf)\]
+[http://incompleteideas.net/book/RLbook2020.pdf](http://incompleteideas.net/book/RLbook2020.pdf)
 
 Write a program that implements policy iteration to solve Example 4.2: Jack’s Car Rental (page 81). Your implementation
 should follow the algorithm given on page 80. You must submit: The code, the results (including any plots, etc.), and a
